@@ -9,7 +9,7 @@ public class TestHelloWord {
 
     @Test
     public void TestHello() {
-        System.out.println("Hello Word");
+        System.out.println("HelloWord");
     }
 
 }
